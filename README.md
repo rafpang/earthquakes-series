@@ -1,1 +1,1 @@
-Prediction of vaccines data from a dataset taken from kaggle.
+Prediction of magnitude given Latitude and Longitude. Taken from Kaggle.
